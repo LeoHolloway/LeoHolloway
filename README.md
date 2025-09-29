@@ -20,6 +20,6 @@ I am involved in statistics research relating to parameter estimation for extrem
 ### Connect
 The best way to reach me is by email, but I also check my LinkedIn.
 
-[Email](mailto:leoholloway@tamu.edu)
+[leoholloway@tamu.edu](mailto:leoholloway@tamu.edu)
 
 [LinkedIn](www.linkedin.com/in/leonardo-holloway-94a68224a)
