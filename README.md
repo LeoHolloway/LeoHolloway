@@ -1,13 +1,5 @@
 ## Hello, I'm Leo Holloway.
-#### I am currently a senior at Texas A&M majoring in Statistics and minoring in Computer Science.
-
-### Interests
-My main software-based interests are:
-* Financial modeling and analytics
-* Data analytics and visualization
-* Tools to improve my quality of life
-
-I am involved in statistics research relating to parameter estimation for extreme values. Ask me about it!
+#### I am currently a MS in Financial Engineering student at Columbia University. I am interested in quant trading/research internships for summer 2027.
 
 ### Skills
 * Languages: Python, C++, Java, R, SQL
@@ -20,6 +12,6 @@ I am involved in statistics research relating to parameter estimation for extrem
 ### Connect
 The best way to reach me is by email, but I also check my LinkedIn.
 
-[leoholloway@tamu.edu](mailto:leoholloway@tamu.edu)
+[lh3437@columbia.edu](mailto:lh3437@columbia.edu)
 
 [LinkedIn](www.linkedin.com/in/leonardo-holloway-94a68224a)
