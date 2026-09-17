@@ -14,4 +14,4 @@ The best way to reach me is by email, but I also check my LinkedIn.
 
 [lh3437@columbia.edu](mailto:lh3437@columbia.edu)
 
-[LinkedIn](www.linkedin.com/in/leonardoholloway)
+www.linkedin.com/in/leonardoholloway
